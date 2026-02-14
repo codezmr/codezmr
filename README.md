@@ -1,27 +1,79 @@
-<h1 align="center">Hi 👋, I'm Mohammad Zamiruddin</h1>
-<h3 align="center">A passionate JAVA developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codezmr&label=Profile%20views&color=0e75b6&style=flat" alt="codezmr" /> </p>
+# 🫠
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codezmr" alt="codezmr" /></a> </p>
+**you found me. congrats. or condolences.**
 
-- 🌱 I’m currently learning **Spring Framework**
+</div>
 
-- 💬 Ask me about **JSE & J2EE**
+---
 
-- 📫 How to reach me **mdzamiruddin.zmr@gmail.com**
+```
+> whoami
+zamiruddin
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-zamiruddin-19a80716a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-zamiruddin-19a80716a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/codezmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codezmr" height="30" width="40" /></a>
-</p>
+> what_do_you_do
+I mass Java into doing things it probably shouldn't.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+> mass?
+I meant mass. I don't just write code. I throw mass at it.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codezmr&show_icons=true&locale=en&layout=compact" alt="codezmr" /></p>
+> favorite_error?
+NullPointerException. We have history.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codezmr&show_icons=true&locale=en" alt="codezmr" /></p>
+> tabs_or_spaces?
+yes.
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codezmr&" alt="codezmr" /></p>
+---
+
+#### things i mass with daily
+
+`java` · `spring boot` · `react` · `docker` · `linux terminal at 2am` · `my sleep schedule`
+
+---
+
+#### my development process
+
+```
+1. google it
+2. stack overflow it
+3. mass around for 3 hours
+4. realize the fix was a missing semicolon
+5. mass for another hour pretending it was harder than that
+6. push to prod on friday
+7. mass
+```
+
+---
+
+#### current status
+
+🧠 teaching AI to think — it's judging my code now  
+🔥 `git push --force` and pray  
+🪦 REST in peace, my old bugs  
+☕ mass runs on mass amounts of mass  
+
+---
+
+#### the mass timeline
+
+```
+2018 ──── started coding, mass was pure ✨
+2022 ──── graduated, mass got real 💼
+2024 ──── mass got promoted 📈
+now  ──── mass with AI, mass is evolving 🤖
+```
+
+---
+
+<div align="center">
+
+**mass. build. break. fix. mass.**
+
+[![LinkedIn](https://img.shields.io/badge/-let's_connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/codezmr)
+[![GitHub](https://img.shields.io/badge/-other_mass-181717?style=flat&logo=github&logoColor=white)](https://github.com/codezmr)
+
+<sub>you mass scrolled all the way down? mass respect. ✊</sub>
+
+</div>
