@@ -82,42 +82,6 @@ now  ──── AI writes the code, i mass take the credit 🤖
 
 ---
 
-#### 🐍 watch my mass eat my contributions
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadzamiruddin/mohammadzamiruddin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadzamiruddin/mohammadzamiruddin/output/github-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/mohammadzamiruddin/mohammadzamiruddin/output/github-snake.svg" />
-</picture>
-</div>
-
----
-
-#### 📊 3d mass contribution map
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mohammadzamiruddin/mohammadzamiruddin/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%"/>
-</div>
-
----
-
-#### 📈 mass activity graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadzamiruddin&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%"/>
-</div>
-
----
-
-#### 🔥 mass streak
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadzamiruddin&theme=react&hide_border=true" alt="streak"/>
-</div>
-
----
-
 #### 💭 random mass wisdom
 
 <div align="center">
