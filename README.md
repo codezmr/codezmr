@@ -13,13 +13,10 @@
 zamiruddin
 
 > what_do_you_do
-I mass Java into doing things it probably shouldn't.
-
-> mass?
-I meant mass. I don't just write code. I throw mass at it.
+mass Java into doing things it probably shouldn't.
 
 > favorite_error?
-NullPointerException. We have history.
+NullPointerException. we have history.
 
 > tabs_or_spaces?
 yes.
@@ -36,23 +33,27 @@ yes.
 #### my development process
 
 ```
-1. google it
-2. stack overflow it
-3. mass around for 3 hours
-4. realize the fix was a missing semicolon
-5. mass for another hour pretending it was harder than that
-6. push to prod on friday
-7. mass
+1. describe the problem to copilot
+2. copilot writes the code
+3. i mass with it until it breaks
+4. ask chatgpt why it broke
+5. gemini disagrees with chatgpt
+6. claude has a different opinion
+7. i mass all three answers together
+8. somehow it works
+9. mass don't know why
+10. push to prod. it's friday. mass cares.
 ```
 
 ---
 
 #### current status
 
-🧠 teaching AI to think — it's judging my code now  
-🔥 `git push --force` and pray  
-🪦 REST in peace, my old bugs  
+🧠 mass AI models are writing my code — i just mass approve  
+🔥 `git push --force` and let copilot deal with it  
+🪦 stack overflow mass resting in peace  
 ☕ mass runs on mass amounts of mass  
+🤖 my IDE is smarter than me and we both know it  
 
 ---
 
@@ -62,14 +63,14 @@ yes.
 2018 ──── started coding, mass was pure ✨
 2022 ──── graduated, mass got real 💼
 2024 ──── mass got promoted 📈
-now  ──── mass with AI, mass is evolving 🤖
+now  ──── AI writes the code, i mass take the credit 🤖
 ```
 
 ---
 
 <div align="center">
 
-**mass. build. break. fix. mass.**
+**mass. prompt. vibe. ship. mass.**
 
 [![LinkedIn](https://img.shields.io/badge/-let's_connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/codezmr)
 [![GitHub](https://img.shields.io/badge/-other_mass-181717?style=flat&logo=github&logoColor=white)](https://github.com/codezmr)
