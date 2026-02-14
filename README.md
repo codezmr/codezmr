@@ -16,7 +16,19 @@ zamiruddin
 mass Java into doing things it probably shouldn't.
 
 > favorite_error?
-NullPointerException. we have history.
+BeanCurrentlyInCreationException: Requested bean is currently in
+creation: Is there an unresolvable circular reference?
+
+> no wait, actually...
+javax.net.ssl.SSLHandshakeException: PKIX path building failed:
+sun.security.provider.certpath.SunCertPathBuilderException:
+unable to find valid certification path to requested target
+
+> okay one more...
+java.lang.NoSuchMethodError: 'void org.springframework.boot
+.web.servlet.context.AnnotationConfigServletWebServerApplicationContext
+.<init>(DefaultListableBeanFactory)'
+— good luck googling that one.
 
 > tabs_or_spaces?
 yes.
