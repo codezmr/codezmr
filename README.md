@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=%3E+whoami;zamiruddin;%3E+mass+with+java+since+2018;%3E+mass+AI+approve+since+2024;%3E+segfault.+just+kidding.+it's+java." alt="Typing SVG" />
+
 # 🫠
 
 **you found me. congrats. or condolences.**
@@ -15,7 +17,7 @@ zamiruddin
 > what_do_you_do
 mass Java into doing things it probably shouldn't.
 
-> favorite_error?
+> mass_favorite_error?
 BeanCurrentlyInCreationException: Requested bean is currently in
 creation: Is there an unresolvable circular reference?
 
@@ -59,7 +61,7 @@ yes.
 
 ---
 
-#### current status
+#### current mass status
 
 🧠 mass AI models are writing my code — i just mass approve  
 🔥 `git push --force` and let copilot deal with it  
@@ -80,6 +82,50 @@ now  ──── AI writes the code, i mass take the credit 🤖
 
 ---
 
+#### 🐍 watch my mass eat my contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadzamiruddin/mohammadzamiruddin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadzamiruddin/mohammadzamiruddin/output/github-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/mohammadzamiruddin/mohammadzamiruddin/output/github-snake.svg" />
+</picture>
+</div>
+
+---
+
+#### 📊 3d mass contribution map
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mohammadzamiruddin/mohammadzamiruddin/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%"/>
+</div>
+
+---
+
+#### 📈 mass activity graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadzamiruddin&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%"/>
+</div>
+
+---
+
+#### 🔥 mass streak
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadzamiruddin&theme=react&hide_border=true" alt="streak"/>
+</div>
+
+---
+
+#### 💭 random mass wisdom
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="dev quote"/>
+</div>
+
+---
+
 <div align="center">
 
 **mass. prompt. vibe. ship. mass.**
@@ -88,5 +134,7 @@ now  ──── AI writes the code, i mass take the credit 🤖
 [![GitHub](https://img.shields.io/badge/-other_mass-181717?style=flat&logo=github&logoColor=white)](https://github.com/codezmr)
 
 <sub>you mass scrolled all the way down? mass respect. ✊</sub>
+
+<img src="https://komarev.com/ghpvc/?username=mohammadzamiruddin&color=36BCF7&style=flat-square&label=mass+visitors" alt="visitors"/>
 
 </div>
