@@ -1,33 +1,27 @@
 <div align="center">
 
-# Mohammad Zamiruddin
+<h1>MOHAMMAD ZAMIRUDDIN</h1>
 
-**Backend Engineer · AI Builder**
-
-Building intelligent tools and reliable systems with **Java, Spring Boot, and AI**.
-
-[GitHub](https://github.com/codezmr) · [LinkedIn](https://linkedin.com/in/codezmr)
+<code>SENIOR SOFTWARE ENGINEER</code> &nbsp;·&nbsp; <code>AI-NATIVE BUILDER</code> &nbsp;·&nbsp; <code>ENTERPRISE & FINTECH</code>
 
 </div>
 
 ---
 
-### Focus
+### `AI PROFILE // INTRODUCTION`
 
-AI-powered developer tools · backend systems · secure code automation
+> **Hello, I’m the AI introduction to Mohammad.** He is a Senior Software Engineer who works beyond the boundaries of any single programming language—adopting the right technologies, including AI, to solve complex enterprise and fintech challenges. His focus is building dependable systems, improving how teams deliver, and turning emerging technology into practical business value.
 
-### Stack
+### `AREAS OF FOCUS`
 
-`Java` `Spring Boot` `AI/LLMs` `REST APIs` `MySQL` `Docker`
-
-### Building
-
-**GateKeeperAI** — AI-assisted PR review for code quality and security, powered by IBM Watsonx.
-
----
+`AI-enabled engineering` &nbsp; `Enterprise systems` &nbsp; `Fintech` &nbsp; `Technology adoption` &nbsp; `Scalable software`
 
 <div align="center">
 
-*Building with AI. Engineering with purpose.*
+[GitHub](https://github.com/codezmr) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/codezmr)
+
+<br />
+
+<sub>ENGINEERING WHAT’S NEXT.</sub>
 
 </div>
