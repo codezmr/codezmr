@@ -21,9 +21,3 @@ $ mission
 Adopt emerging tech early, solve real business problems,
 ship reliable products that scale.
 ```
-
-<div align="center">
-
-[LinkedIn](https://linkedin.com/in/codezmr)
-
-</div>
