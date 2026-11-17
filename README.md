@@ -1,27 +1,29 @@
 <div align="center">
 
-<h1>MOHAMMAD ZAMIRUDDIN</h1>
-
-<code>SENIOR SOFTWARE ENGINEER</code> &nbsp;·&nbsp; <code>AI-NATIVE BUILDER</code> &nbsp;·&nbsp; <code>ENTERPRISE & FINTECH</code>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=2EE6A6&center=true&vCenter=true&random=false&width=700&lines=%3E+whoami;%3E+Mohammad+Zamiruddin;%3E+Senior+Software+Engineer;%3E+AI-Native+Builder;%3E+Enterprise+%7C+Fintech+%7C+AI" alt="terminal banner" />
 
 </div>
 
----
+```bash
+$ whoami
+Mohammad Zamiruddin
 
-### `AI PROFILE // INTRODUCTION`
+$ role
+Senior Software Engineer
 
-> **Hello, I’m the AI introduction to Mohammad.** He is a Senior Software Engineer who works beyond the boundaries of any single programming language—adopting the right technologies, including AI, to solve complex enterprise and fintech challenges. His focus is building dependable systems, improving how teams deliver, and turning emerging technology into practical business value.
+$ focus
+AI-native systems • Enterprise solutions • Fintech products
 
-### `AREAS OF FOCUS`
+$ stack
+Java • Spring Boot • AI/LLMs • APIs • Cloud • Databases
 
-`AI-enabled engineering` &nbsp; `Enterprise systems` &nbsp; `Fintech` &nbsp; `Technology adoption` &nbsp; `Scalable software`
+$ mission
+Adopt emerging tech early, solve real business problems,
+ship reliable products that scale.
+```
 
 <div align="center">
 
-[GitHub](https://github.com/codezmr) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/codezmr)
-
-<br />
-
-<sub>ENGINEERING WHAT’S NEXT.</sub>
+[GitHub](https://github.com/codezmr) · [LinkedIn](https://linkedin.com/in/codezmr)
 
 </div>
