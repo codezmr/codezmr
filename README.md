@@ -1,104 +1,119 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=%3E+whoami;zamiruddin;%3E+mass+with+java+since+2018;%3E+mass+AI+approve+since+2024;%3E+segfault.+just+kidding.+it's+java." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=%3E+whoami;%3E+zamiruddin;%3E+backend+engineer;%3E+Java+%7C+Spring+Boot+%7C+AI+%7C+Systems" alt="Typing SVG" />
 
-# 🫠
+# 🧠 whoami
 
-**you found me. congrats. or condolences.**
+`zamiruddin` — a backend engineer who turns Java into production-ready systems, cracks tough Spring Boot bugs at 2am, and somehow makes AI help with the coding.
 
 </div>
 
 ---
 
-```
-> whoami
-zamiruddin
+## 🔧 What I do
 
-> what_do_you_do
-mass Java into doing things it probably shouldn't.
+I build backend systems, APIs, and real-world software products with a strong focus on:
 
-> mass_favorite_error?
-BeanCurrentlyInCreationException: Requested bean is currently in
-creation: Is there an unresolvable circular reference?
+- Java & Spring Boot
+- REST API design and backend architecture
+- Database integration and data processing
+- Microservices and distributed patterns
+- Secure and quality-focused engineering
+- AI-assisted development workflows
 
-> no wait, actually...
-javax.net.ssl.SSLHandshakeException: PKIX path building failed:
-sun.security.provider.certpath.SunCertPathBuilderException:
-unable to find valid certification path to requested target
-
-> okay one more...
-java.lang.NoSuchMethodError: 'void org.springframework.boot
-.web.servlet.context.AnnotationConfigServletWebServerApplicationContext
-.<init>(DefaultListableBeanFactory)'
-— good luck googling that one.
-
-> tabs_or_spaces?
-yes.
-```
+> If it breaks in production, I probably already have a story about it.
 
 ---
 
-#### things i mass with daily
+## 💻 Tech Stack
 
-`java` · `spring boot` · `react` · `docker` · `linux terminal at 2am` · `my sleep schedule`
+### Core
+- Java
+- Spring Framework
+- Spring Boot
+- REST APIs
+- JDBC / DAO / MVC
+- MySQL
+- Maven
+
+### Frontend / Web
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+### Tools & Infra
+- Git / GitHub
+- Docker
+- Linux / Terminal
+- IntelliJ IDEA / VS Code
+- Postman
+
+### AI / Emerging
+- IBM Watsonx
+- GitHub integrations
+- AI-assisted code review and automation
+- LLM-based workflows for developer productivity
 
 ---
 
-#### my development process
+## 🧩 Current focus
 
-```
+- Building backend systems that are maintainable, secure, and production-ready
+- Exploring AI-powered engineering tools for review, automation, and developer workflows
+- Improving Java/Spring architecture patterns and API design
+- Turning real-world technical pain into useful projects
+
+---
+
+## 🚀 Featured work
+
+- `GateKeeperAI` — AI-powered PR reviewer using IBM Watsonx for code quality and security analysis
+- `Microservices-Architecture` — microservice-oriented backend design and setup
+- `CSV-to-Database` — batch processing large CSV files into MySQL using Spring Batch
+- `create-pdf-springboot` — generating PDFs from templates in Spring Boot
+- `spring-boot-rest-api-antipatterns` — practical examples of backend mistakes to avoid
+- `after_java8` — Java 8 concepts, streams, lambdas, and functional programming
+
+---
+
+## 🧠 My dev process
+
+```text
 1. describe the problem to copilot
-2. copilot writes the code
-3. i mass with it until it breaks
-4. ask chatgpt why it broke
-5. gemini disagrees with chatgpt
-6. claude has a different opinion
-7. i mass all three answers together
-8. somehow it works
-9. mass don't know why
-10. push to prod. it's friday. mass cares.
+2. make the first version
+3. let the code break in interesting ways
+4. debug until it makes sense
+5. ask multiple AIs what they think
+6. merge the useful parts
+7. ship it
+8. pray for a clean prod deploy
 ```
 
 ---
 
-#### current mass status
+## 📌 What I care about
 
-🧠 mass AI models are writing my code — i just mass approve  
-🔥 `git push --force` and let copilot deal with it  
-🪦 stack overflow mass resting in peace  
-☕ mass runs on mass amounts of mass  
-🤖 my IDE is smarter than me and we both know it  
-
----
-
-#### the mass timeline
-
-```
-2018 ──── started coding, mass was pure ✨
-2022 ──── graduated, mass got real 💼
-2024 ──── mass got promoted 📈
-now  ──── AI writes the code, i mass take the credit 🤖
-```
+- Clean architecture
+- Practical engineering over hype
+- Secure, testable, production-friendly code
+- Learning by building
+- Using AI to accelerate, not replace, engineering judgment
 
 ---
 
-#### 💭 random mass wisdom
+## 🌐 Connect
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="dev quote"/>
-</div>
+- GitHub: https://github.com/codezmr
+- LinkedIn: https://linkedin.com/in/codezmr
 
 ---
 
 <div align="center">
 
-**mass. prompt. vibe. ship. mass.**
+`mass. prompt. vibe. ship.`
 
-[![LinkedIn](https://img.shields.io/badge/-let's_connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/codezmr)
-[![GitHub](https://img.shields.io/badge/-other_mass-181717?style=flat&logo=github&logoColor=white)](https://github.com/codezmr)
-
-<sub>you mass scrolled all the way down? mass respect. ✊</sub>
-
-<img src="https://komarev.com/ghpvc/?username=mohammadzamiruddin&color=36BCF7&style=flat-square&label=mass+visitors" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=codezmr&color=36BCF7&style=flat-square&label=profile+views" alt="Profile views" />
 
 </div>
